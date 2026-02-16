@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Endless Game",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-16T06:59:34.960770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Endless Game",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/01_Endless_Game_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Endless Game",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/02_Endless_Game_嵐.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Endless Game",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/03_Endless_Game_嵐.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Endless Game",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/04_Endless_Game_嵐.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Endless Game (Instrumental)",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/05_Endless_Game_(Instrumental)_嵐.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Endless Game",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/06_Endless_Game_Arashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Endless Game",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Endless_Game_嵐.txt"
+    }
+  ]
+}
